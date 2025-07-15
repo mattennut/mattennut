@@ -1,5 +1,5 @@
 # mattennut is me
-- I am a 18 years-old student currently stuyding at NIS PhM in Aqtöbe
+- I am a 18 years-old student of Nazarbayev University, having graduated from NIS PhM in Aqtöbe
 - My interests are programming, graphic and web-design, and even linguistics!
 - I have experience in C# (Unity, Windows Forms) and web development (HTML, CSS, JS, and PHP)
 - Currently, I am working on the following websites:
