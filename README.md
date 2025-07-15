@@ -7,7 +7,7 @@
 
 -  You may reach me via email: **mattennut@gmail.com**
 
--  Fun fact **I love Kasane Teto **
+-  Fun fact **I love Kasane Teto**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
